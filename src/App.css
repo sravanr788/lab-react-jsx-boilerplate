@@ -1,1 +1,17 @@
 /* add your styles here */
+.parent_div{
+    display: flex;
+    justify-content: space-between;
+    /* display: grid; */
+    flex-wrap: wrap;
+    margin: auto;
+    width: 100%;
+    /* height: 75vh; */
+    padding: 5vh 25px;
+  }
+  .image {
+    width: 49%;
+    padding-bottom: 2vw;
+    /* padding:0 25px; */
+  }
+  
